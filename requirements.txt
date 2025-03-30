@@ -1,0 +1,5 @@
+# Tkinter já vem instalado com o Python
+# Não são necessárias dependências adicionais 
+pygame==2.5.2
+pygame-menu>=4.4.3
+pyinstaller==6.3.0 
